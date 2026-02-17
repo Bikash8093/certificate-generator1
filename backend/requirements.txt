@@ -1,0 +1,7 @@
+flask
+flask-cors
+qrcode
+pillow
+fpdf
+sqlite3-binary
+gunicorn
